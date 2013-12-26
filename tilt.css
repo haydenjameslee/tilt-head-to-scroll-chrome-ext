@@ -1,0 +1,11 @@
+#tilt-video{
+	width: 100px;
+	position: fixed;
+	top: 0px;
+	right: 0px;
+	z-index: 200;
+}
+
+.scroll-on{
+	border: 5px solid black;
+}
