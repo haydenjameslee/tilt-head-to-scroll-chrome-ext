@@ -4,6 +4,7 @@ tilt-head-to-scroll-chrome-ext
 Tilt Head to Scroll Chrome Extension
 
 Tilt your head to scroll web pages.
+https://chrome.google.com/webstore/detail/tilt-head-to-scroll-exper/mkhingnghfckpkmdpiofeclcnmikfoab
 
 *EXPERIMENTAL*
 
@@ -15,7 +16,5 @@ How to use:
 2. You should see a small video in the top right,
 3. Press 't' + SPACEBAR (in that order) to enable/disable scrolling,
 4. Tilt your head left or right to scroll down!
-
-Source code: 
 
 Questions? http://haydenjameslee.com/contact
